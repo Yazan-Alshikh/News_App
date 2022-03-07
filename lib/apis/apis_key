@@ -1,0 +1,5 @@
+
+
+baseurl:https://newsapi.org/
+method :v2/top-headlines?
+qurye: country=us&apiKey=ad9bb919e6cc4d9293172f80b9f843bf
